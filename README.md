@@ -12,3 +12,7 @@ Este script en Node.js permite crear un pago utilizando la API de Khipu.
 1. Instala las dependencias:
    ```bash
    npm install axios
+
+## Proximas Pruebas
+
+Utilizar herramientas de prueba como Webhook.site para validar funcionalidades
