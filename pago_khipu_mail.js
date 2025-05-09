@@ -20,7 +20,7 @@ const paymentData = {
   send_email: true,
   return_url: 'https://tusitio.com/retorno',
   cancel_url: 'https://tusitio.com/cancelado',
-  notify_url: 'https://webhook.site/tu-url-unica',
+  notify_url: 'https://tusitio.com/notificacion',
   body: 'Gracias por tu compra de prueba'
 };
 
