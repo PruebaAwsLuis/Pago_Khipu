@@ -1,11 +1,13 @@
 # Crear Pago con Khipu
 
-Este script en Node.js permite crear un pago utilizando la API de Khipu.
+Este proyecto demuestra cómo crear un enlace de pago usando la API REST de Khipu desde Node.js
+Se adjuntan 2 ejemplos: 1 con pago directo y otro mas real que envia enlace a correo y se finaliza el pago autentificandose 
 
 ## Requisitos
 
-- Node.js instalado
-- Una cuenta en Khipu con credenciales de desarrollador
+- Node.js 18+ o superior
+- Cuenta en [Khipu](https://khipu.com) (modo desarrollador)
+- Tu API Key y Receiver ID
 
 ## Uso
 
