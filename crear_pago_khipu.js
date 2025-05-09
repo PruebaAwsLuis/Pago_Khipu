@@ -18,7 +18,7 @@ const paymentData = {
   payer_email: 'cliente@ejemplo.cl',
   return_url: 'https://tusitio.com/retorno',
   cancel_url: 'https://tusitio.com/cancelado',
-  notify_url: 'https://webhook.site/b861c477-2ce7-469d-afdd-1dab09718a50',
+  notify_url: 'https://tusitio.com/notificacion',
   body: 'Gracias por tu compra'
 };
 
