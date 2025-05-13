@@ -3,7 +3,7 @@
 const axios = require('axios');
 
 // ✅ Tus credenciales de modo desarrollador
-const API_KEY = '4557494e-30dc-43c4-9bae-26298cd38ef5'; // Llave secreta
+const API_KEY = 'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx'; // Llave secreta
 const RECEIVER_ID = '497623'; // ID de cobrador
 
 // ✅ Endpoint oficial según Swagger v3
@@ -15,8 +15,8 @@ const paymentData = {
   currency: 'CLP',
   amount: 1000,
   transaction_id: 'real_' + Date.now(),
-  payer_email: 'luismonros@gmail.com',
-  payer_name: 'Luis Monros',
+  payer_email: 'xxxxxxxx@gmail.com',
+  payer_name: 'Luis xxxxx',
   send_email: true,
   return_url: 'https://tusitio.com/retorno',
   cancel_url: 'https://tusitio.com/cancelado',
