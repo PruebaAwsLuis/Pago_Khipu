@@ -3,8 +3,8 @@
 const axios = require('axios');
 
 // ✅ Tus credenciales de modo desarrollador
-const API_KEY = '4557494e-30dc-43c4-9bae-26298cd38ef5'; // Llave secreta
-const RECEIVER_ID = '497623'; // ID de cobrador
+const API_KEY = 'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx'; // Llave secreta
+const RECEIVER_ID = 'xxxxxx'; // ID de cobrador
 
 // ✅ Endpoint oficial según Swagger v3
 const API_URL = 'https://payment-api.khipu.com/v3/payments';
