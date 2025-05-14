@@ -1,7 +1,9 @@
 # Crear Pago con Khipu
 
 Este proyecto demuestra cómo crear un enlace de pago usando la API REST de Khipu desde Node.js
-Se adjuntan 2 ejemplos: 1 con pago directo y otro mas real que envia enlace a correo y se finaliza el pago autentificandose 
+Se adjuntan 2 ejemplos: 
+1_ con pago directo 
+2_ mas real que envia enlace a correo y se finaliza el pago autentificandose 
 
 ## Requisitos
 
